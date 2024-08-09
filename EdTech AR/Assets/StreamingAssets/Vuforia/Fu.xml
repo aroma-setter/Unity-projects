@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="solar_system" size="6.000000 4.000000" />
+    <ImageTarget name="rutherford" size="6.000000 3.739437" />
+    <ImageTarget name="calcite" size="6.000000 4.217822" />
+    <ImageTarget name="3BHK" size="6.000000 4.612766" />
+    <ImageTarget name="2bhk" size="6.000000 3.687764" />
+    <ImageTarget name="1bhk" size="6.000000 3.910791" />
+    <ImageTarget name="RoomSketcher-Custom-2D-Floor-Plan-Branding" size="6.000000 4.500000" />
+    <ImageTarget name="blueprint_house" size="6.000000 3.906250" />
+  </Tracking>
+</QCARConfig>
